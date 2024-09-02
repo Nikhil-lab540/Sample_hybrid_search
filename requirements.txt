@@ -1,0 +1,7 @@
+langchain
+langchain_core
+langchain_community
+pinecone-client
+pinecone-text
+pinecone-notebooks
+langchain_huggingface
